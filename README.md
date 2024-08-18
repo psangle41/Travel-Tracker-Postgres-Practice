@@ -4,7 +4,7 @@ A Node.js project to track visited countries using PostgreSQL and EJS templates.
 
 ## Demo Video
 
-Click [here](https://github.com/psangle41/Travel-Tracker-Postgres-Practice/blob/main/Images/demo.mov) to download the demo video.
+https://github.com/user-attachments/assets/a7c8aa70-8983-4e1a-b298-069ac6e01a47
 
 ## Table of Contents
 
